@@ -2,3 +2,11 @@ fastapi==0.112.0
 uvicorn[standard]==0.30.5
 python-multipart==0.0.9
 python-dotenv==1.0.1
+pydantic-settings==2.4.0
+aiofiles==24.1.0
+langchain==0.2.12
+PyMuPDF==1.24.9
+motor==3.5.1
+
+
+
